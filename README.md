@@ -31,7 +31,6 @@ atm_1.check_balance("67890")
 branch_1.print_transaction_history("12345")
 branch_1.print_transaction_history("67890")
 Project Structure
-perl
 Copy code
 bank-system/
 ├── bank_system.py     # Main script
